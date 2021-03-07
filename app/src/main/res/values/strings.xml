@@ -1,0 +1,24 @@
+<resources>
+    <string name="app_name">Kalc</string>
+    <string name="initial">0</string>
+    <string name="history">Last operation stack</string>
+    <string name="pow_2">x<sup><small>2</small></sup></string>
+    <string name="pow_3">x<sup><small>3</small></sup></string>
+    <string name="pow_4">x<sup><small>4</small></sup></string>
+    <string name="pow_5">x<sup><small>5</small></sup></string>
+    <string name="radix">√</string>
+    <string name="radix_3"><sup><small>3</small></sup>√</string>
+    <string name="radix_4"><sup><small>4</small></sup>√</string>
+    <string name="radix_5"><sup><small>5</small></sup>√</string>
+    <string name="e_x">e<sup><small>x</small></sup></string>
+    <string name="e10_x">10<sup><small>x</small></sup></string>
+    <string name="ln">ln</string>
+    <string name="log">log<inf><small>10</small></inf></string>
+    <string name="to_int">Int</string>
+    <string name="trunc">Trun</string>
+    <string name="pm"><sup><small>+</small></sup>/<inf><small>-</small></inf></string>
+    <string name="fract"><sup><small>1</small></sup>/<inf><small>x</small></inf></string>
+    <string name="random">Rand</string>
+    <string name="random_d">DRand</string>
+
+</resources>
